@@ -1,0 +1,147 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+header {
+    margin: 47px 36px 0 42px;
+}
+
+.links {
+    width: 83px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.875px;
+    margin-right: 36px;
+    cursor: pointer;
+}
+
+.links:hover {
+    color: #FE8B6E;
+}
+
+.links:active {
+    color: #FEE378
+}
+
+.button-1 {
+    background: #6FBF44;
+    width: 124px;
+    height: 51px;
+    border-radius: 6px;
+    border: none;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.button-1:hover {
+    color: #FE8B6E
+}
+
+.button-1:active {
+    color: #FEE378
+}
+
+img {
+    width: 533.834px;
+    height: 466.9px;
+    margin: 163px 0px 0px 121px;
+}
+
+.textos {
+    display: inline-block;
+    margin-left: 84px;
+    position: relative;
+    bottom: 12px;
+}
+
+h1 {
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.596px;
+    width: 582px;
+}
+
+p {
+    width: 493px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    margin: 47px 146px 55px 0px;
+}
+
+.button-2 {
+    color: #6FBF44;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    border: none;
+    cursor: pointer;
+    background: white;
+}
+
+.button-2:hover {
+    color: #FE8B6E
+}
+
+.button-2:active {
+    color: #FEE378
+}
+
+
+@media screen and (max-width: 665px) {
+
+    .links {
+        display: none;
+    }
+
+    .button-1 {
+        width: 91px;
+        height: 31px;
+        position: fixed;
+        right: 15px;
+        margin-left: 506px;
+    }
+
+    img {
+        height: 288px;
+        width: 312px;
+        position: fixed;
+        top: 490px;
+        margin: 59px 39px 22px 39px;
+    }
+
+    .textos {
+        margin: 124px auto;
+        bottom: 124px;
+    }
+
+    h1 {
+        width: auto;
+        text-align: center;
+        font-size: 32px;
+        line-height: 30px;
+        margin-top: 124px;
+    }
+
+    p {
+        width: auto;
+        text-align: center;
+        font-size: 18px;
+        line-height: 33px;
+        margin: 29px 43px;
+    }
+
+    .button-2 {
+        display: block;
+        margin: 26px auto;
+    }
+}
