@@ -115,13 +115,13 @@ p {
         height: 300px;
         max-width: 80%;
         position: fixed;
-        top: 470px;
+        top: 400px;
         margin: 59px 39px 22px 39px;
     }
 
     .textos {
         margin: 124px auto;
-        bottom: 124px;
+        bottom: 180px;
     }
 
     h1 {
