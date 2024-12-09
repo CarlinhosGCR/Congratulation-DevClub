@@ -112,10 +112,10 @@ p {
     }
 
     img {
-        height: 288px;
-        width: 312px;
+        height: 300px;
+        max-width: 80%;
         position: fixed;
-        top: 490px;
+        top: 470px;
         margin: 59px 39px 22px 39px;
     }
 
