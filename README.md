@@ -30,6 +30,6 @@
  
 Link do projeto
 
-<a href="https://carlinhosgcr.github.io/We-Care-About-Your-Pet">We Care</a>
+<a href="https://carlinhosgcr.github.io/Congratulation-DevClub/">Congratulation</a>
 
 ![CarlinhosGCR GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlinhosGCR&show_icons=true&theme=shadow_green)
