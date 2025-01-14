@@ -33,3 +33,6 @@ Link do projeto
 <a href="https://carlinhosgcr.github.io/Congratulation-DevClub/">Congratulation</a>
 
 ![CarlinhosGCR GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlinhosGCR&show_icons=true&theme=shadow_green)
+
+<img src="https://raw.githubusercontent.com/CarlinhosGCR/Congratulation-DevClub/0e07b7ecfcc210383ab64056082e70b60de86d67/imagens/DESKTOP.png">
+<img src="https://github.com/CarlinhosGCR/Congratulation-DevClub/blob/main/imagens/PHONE%20CELL.png?raw=true">
